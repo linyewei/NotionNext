@@ -40,19 +40,19 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🔍 分享免五资源',
+    '🤝 为你寻找优惠的',
+    '🏃 券商，万一免五',
+    '🏠 万一免五小能手',
+    '🤖️ 开户爱好者',
+    '🧱 低佣开户'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: '/',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_URL2: 'https://follow.it/10yp0l?leanpub',
+  HEO_INFO_CARD_ICON2: 'fa-solid fa-envelope',
   HEO_INFO_CARD_URL3: '/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
