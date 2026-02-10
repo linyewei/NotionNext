@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '邮件订阅',
   HEO_SOCIAL_CARD_TITLE_2: '第一时间收到最新信息',
   HEO_SOCIAL_CARD_TITLE_3: '点击去订阅',
-  HEO_SOCIAL_CARD_URL: 'https://follow.it/10yp0l',
+  HEO_SOCIAL_CARD_URL: 'https://follow.it/10yp0l?leanpub',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
