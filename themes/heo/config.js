@@ -41,8 +41,8 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享免五资源',
-    '🤝 为你寻找优惠的',
-    '🏃 券商，万一免五',
+    '🤝 为你寻找优惠的券商',
+    '🏃 佣金万一免五',
     '🏠 万一免五小能手',
     '🤖️ 开户爱好者',
     '🧱 低佣开户'
@@ -51,7 +51,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://follow.it/10yp0l?leanpub',
+  HEO_INFO_CARD_URL2: 'https://follow.it/rzrtlg?leanpub',
   HEO_INFO_CARD_ICON2: 'fa-solid fa-envelope',
   HEO_INFO_CARD_URL3: '/',
   HEO_INFO_CARD_TEXT3: '了解更多',
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '邮件订阅',
   HEO_SOCIAL_CARD_TITLE_2: '第一时间收到最新信息',
   HEO_SOCIAL_CARD_TITLE_3: '点击去订阅',
-  HEO_SOCIAL_CARD_URL: 'https://follow.it/10yp0l?leanpub',
+  HEO_SOCIAL_CARD_URL: 'https://follow.it/rzrtlg?leanpub',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
