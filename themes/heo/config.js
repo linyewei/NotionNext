@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://kaihu.qzz.io' },
+    { title: '欢迎来到我的博客', url: 'https://www.tzguide.com' },
     { title: '访问在线文档获取最新免五资源', url: 'https://docs.qq.com/sheet/DS2pyQUd2VExya3pz' }
   ],
 
