@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '万一免五',
   HEO_HERO_TITLE_2: '与低佣开户',
-  HEO_HERO_TITLE_3: 'kaihu.qzz.io',
+  HEO_HERO_TITLE_3: 'TZGuide.com',
   HEO_HERO_TITLE_4: '不定时更新',
   HEO_HERO_TITLE_5: '最新万一兔五券商大全',
   HEO_HERO_TITLE_LINK: 'https://docs.qq.com/sheet/DS2pyQUd2VExya3pz',
